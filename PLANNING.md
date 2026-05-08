@@ -1,15 +1,15 @@
 # 📝 Project Planning Worksheet
 
-**Name:** ___________________________  
-**Date:** ___________________________  
-**Project Title:** ___________________________
+**Name:** _____steffen______________________  
+**Date:** _____5/6/2026______________________  
+**Project Title:** ______talker___________________
 
 ---
 
 ## Step 1 — What will your program do?
 
 *Write 2–3 sentences describing your project. What happens when the user runs it? What will they see or do?*
-
+my project will talk to the user and talik about greetings like what is your name. or how old are you
 > 
 
 ---
@@ -18,9 +18,9 @@
 
 *List every `input()` question you plan to use.*
 
-1. 
-2. 
-3. 
+1. print('how old are you)
+2. print ("hello)
+3. print ("bye)
 
 ---
 
@@ -41,9 +41,9 @@
 
 *Describe each `if/elif/else` check your program will use.*
 
-- If _________________________, then print _________________________
-- Elif _________________________, then print _________________________
-- Else print _________________________
+- If ___hi____________________, then print ________hello_________________
+- Elif _________i need someon to talk to________________, then print _______ok__________________
+- Else print ______bye___________________
 
 *(Add more rows if needed.)*
 
@@ -54,7 +54,7 @@
 *Write out what a sample run of your program might look like. Pretend you are the user.*
 
 ```
-Program output here...
-User types: 
-Program responds: 
+Program output here... 
+User types: print ("hello)
+Program responds:  print ( how are you)
 ```
